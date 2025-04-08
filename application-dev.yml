@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: DEV-SERVICE
+
 eureka:
   instance:
     prefer-ip-address: true
